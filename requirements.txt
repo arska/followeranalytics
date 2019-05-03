@@ -19,6 +19,6 @@ toml==0.10.0
 tox==3.6.1
 tox-pip-extensions==1.4.1
 tweepy==3.7.0
-urllib3==1.24.1
+urllib3==1.25.2
 virtualenv==16.1.0
 Werkzeug==0.14.1

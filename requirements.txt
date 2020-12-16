@@ -10,7 +10,7 @@ MarkupSafe==1.1.0
 oauthlib==2.1.0
 pluggy==0.8.0
 py==1.10.0
-PySocks==1.6.8
+PySocks==1.7.1
 python-dotenv==0.10.1
 requests==2.21.0
 requests-oauthlib==1.0.0

@@ -20,5 +20,5 @@ tox==3.6.1
 tox-pip-extensions==1.4.1
 tweepy==3.7.0
 urllib3==1.25.9
-virtualenv==16.1.0
+virtualenv==20.4.3
 Werkzeug==0.15.3
